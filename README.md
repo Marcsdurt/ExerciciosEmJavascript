@@ -2,4 +2,5 @@
 Praticando exercícios em Javascript
 
 Exercício 1: Praticando o Uso de Classe e Objeto para Cálculos de Viagem <br>
-Exercício 2: Desenvolvendo uma Classe para Cálculo de IMC
+Exercício 2: Desenvolvendo uma Classe para Cálculo de IMC <br>
+Exercício 3: Utilizando a estrutura de repetição "For" para um sistema que imprima uma tabuada de um determinado número
